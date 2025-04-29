@@ -1,4 +1,4 @@
-# **BUSINESS CASE 3: Reicheio Rocomentdation System**  
+# **BUSINESS CASE 3: Recheio Rocommendation System**  
 
 
 ## 🎓 Master’s Program in Data Science & Advanced Analytics 
@@ -15,4 +15,4 @@
 ## 📊 Project Overview  
 This notebook utilizes the following datasets:  
 - Case3_Recheio_2025 (1).xlsx <br>
-- The gaol of the project is to design a recomendaton systems so that the company can propose better product to existing costumer 
+- The goal of the project is to design a recommendation system so that the company can propose better products to existing costumers.
